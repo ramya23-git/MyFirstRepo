@@ -1,0 +1,8 @@
+mkdir cloud-computing
+cd cloud-computing
+mkdir aws azure gpc
+cd aws
+touch file1 file2 file3
+useradd ramya
+groupadd naveen
+chown ramya: naveen file1 file2 file3
